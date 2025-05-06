@@ -1,0 +1,13 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security"
+  }
+}
