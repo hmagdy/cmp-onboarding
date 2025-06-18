@@ -1,7 +1,9 @@
 const express = require('express');
 const fs = require('fs');
 const app = express();
-const port = 3000;
+const port = 4200;
+const whatsappSignupRoutes = require('./meta-integration/routes/whatsapp-signup.routes');
+const https = require('https');
 
 function formatDate(newDate) {
     // Build the desired string manually
@@ -16,6 +18,11 @@ function formatDate(newDate) {
 
     return formattedString;
 }
+
+const options = {
+  key: fs.readFileSync('cert/key.pem'),
+  cert: fs.readFileSync('cert/cert.pem')
+};
 
 // To parse JSON and URL-encoded payloads
 app.use(express.json());
@@ -46,11 +53,14 @@ function handleRequest(req, res, endpointName) {
 }
 
 // Endpoints
+app.get('/', (req, res) => res.send('Server is running'));
+app.get('/test', (req, res) => res.send('Routing works!'));
 app.all('/redirect', (req, res) => handleRequest(req, res, 'redirectUrl'));
 app.all('/webhook', (req, res) => handleRequest(req, res, 'webhookUrl'));
 app.all('/notification', (req, res) => handleRequest(req, res, 'notificationUrl'));
+app.use('/whatsapp-signup', whatsappSignupRoutes);
 
 // Start server
-app.listen(port, () => {
-    console.log(`Server listening on port ${port}`);
+https.createServer(options, app).listen(port, () => {
+  console.log(`HTTPS Server running on https://localhost:${port}`);
 });

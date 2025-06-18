@@ -1,13 +1,22 @@
 {
   "name": "onboarding",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "author": "",
   "license": "ISC",
   "keywords": [],
+   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
   "description": "",
   "dependencies": {
+    "axios": "^1.10.0",
+    "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
