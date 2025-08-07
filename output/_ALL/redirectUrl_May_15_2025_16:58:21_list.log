@@ -1,0 +1,17 @@
+[2025-05-15T12:58:21.091Z] redirectUrl:
+{
+  "method": "GET",
+  "headers": {
+    "host": "acca-94-200-173-6.ngrok-free.app",
+    "user-agent": "PostmanRuntime/7.43.4",
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate, br",
+    "postman-token": "1b024aa2-54f7-4e11-a6b9-67c7c7858dd8",
+    "x-forwarded-for": "94.200.173.6",
+    "x-forwarded-host": "acca-94-200-173-6.ngrok-free.app",
+    "x-forwarded-proto": "https"
+  },
+  "query": {},
+  "url": "/redirect"
+}
+

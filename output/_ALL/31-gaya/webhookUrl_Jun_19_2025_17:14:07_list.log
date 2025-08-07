@@ -1,0 +1,46 @@
+[2025-06-19T14:14:07.303Z] webhookUrl:
+{
+  "method": "POST",
+  "headers": {
+    "host": "3162-197-135-8-145.ngrok-free.app",
+    "user-agent": "Go-http-client/2.0",
+    "content-length": "919",
+    "accept-encoding": "gzip",
+    "authorization": "Basic MGQ3OTJjMGY5OGMyNDQ3MzgyOWU5YmNkZjM1MDM0NTI6M2MyZDZmNDQwOGM4MzMzZDI5MjJiMTM3YzU4YTg4Njc=",
+    "content-type": "application/json",
+    "x-forwarded-for": "18.157.156.56",
+    "x-forwarded-host": "3162-197-135-8-145.ngrok-free.app",
+    "x-forwarded-proto": "https",
+    "x-unificationengine-signature": "NDhlZWE5NjQ1NzU5ZjViMWRhNTM3NTBiYmE4ZTNlNzU4NzFmMGUxMmEyMzBlZWQ3MDUwNzdlMDA3YmU0MWM3MjA0NTNlMzU4NGE2M2Q0MjlmMmE2NDAxZDNmOWExNjc2YjcxYTRlYTA5M2MwN2NjNzRjMmQwMmUzNmUwYWFhZTY="
+  },
+  "body": {
+    "uri": "https://3162-197-135-8-145.ngrok-free.app/webhook",
+    "data": {
+      "messagepreview": "ً",
+      "connectionname": "",
+      "uri": "whatsappcloud://966920014262@",
+      "receiveraddress": "966501932466",
+      "senderaddress": "966920014262",
+      "attachment": {
+        "value": "ً",
+        "uri": "whatsappcloud://966501932466@whatsapp.com"
+      },
+      "timestamp": 1750342446,
+      "attachmenttype": "text",
+      "webhookaccesskey": "769f1dc3-05d1-482f-bc46-1cc90ce3bd88",
+      "parts": [
+        {
+          "contentType": "text",
+          "data": "ً",
+          "uri": "whatsappcloud://966501932466@whatsapp.com",
+          "originalEvent": "{\"from\":\"966501932466\",\"id\":\"wamid.HBgMOTY2NTAxOTMyNDY2FQIAEhgUM0FDREREM0U1OTc0RTlFMkVDMUEA\",\"timestamp\":\"1750342446\",\"text\":{\"body\":\"ً\"},\"type\":\"text\",\"profile\":{\"name\":\"GHAYA EXPRESS\"},\"replyto\":\"wamid.HBgMOTY2NTAxOTMyNDY2FQIAEhgUM0FDREREM0U1OTc0RTlFMkVDMUEA\"}"
+        }
+      ],
+      "sender": "whatsappcloud://966920014262@",
+      "receiver": "whatsappcloud://966501932466@whatsapp.com?name=GHAYA EXPRESS"
+    }
+  },
+  "query": {},
+  "url": "/webhook"
+}
+

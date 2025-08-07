@@ -1,0 +1,28 @@
+[2025-06-22T14:38:06.951Z] redirectUrl:
+{
+  "method": "GET",
+  "headers": {
+    "host": "e4a3-197-135-114-6.ngrok-free.app",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "accept-language": "en-US,en;q=0.9,ar;q=0.8,zh;q=0.7,sv;q=0.6",
+    "priority": "u=0, i",
+    "referer": "https://www.facebook.com/",
+    "sec-ch-ua": "\"Google Chrome\";v=\"137\", \"Chromium\";v=\"137\", \"Not/A)Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "upgrade-insecure-requests": "1",
+    "x-forwarded-for": "197.135.114.6",
+    "x-forwarded-host": "e4a3-197-135-114-6.ngrok-free.app",
+    "x-forwarded-proto": "https"
+  },
+  "query": {
+    "code": "AQCwYf0RkkY6ZAr0l4bW1x77TKLybtTizjAhFPIlgGKPEqadE3ieamTx3NG5UnbgzKQT4EuXj-90n-0q7WjHIqc80EtwRqob_cfa05Ce5bAtjHNlGsUwJ59BtoroWjYdkUtXU54j8gn57jDSGjP1Ui0orkKaR8hxf2rxLDX8uJfxZjivRiq3NEnpVAxXyv056eX7lAbk5ZP56L3JYinTfWIOOCkCWHfvDkj08-_GfMHnXsCMJ3SlP9LxaBxxEXHWANmjD5k2a0XEcLP1ZMUkQdrbwVcnOhSBdE6GA56NNn26pk2_A2_1oxVNoD8hTwsj-IqfCxP0pI2m54I4Ci67Y6g8dAKkwcNkA6m-VTmHOXijzPJ2utwLvxndv6o9urFw7WU"
+  },
+  "url": "/redirect?code=AQCwYf0RkkY6ZAr0l4bW1x77TKLybtTizjAhFPIlgGKPEqadE3ieamTx3NG5UnbgzKQT4EuXj-90n-0q7WjHIqc80EtwRqob_cfa05Ce5bAtjHNlGsUwJ59BtoroWjYdkUtXU54j8gn57jDSGjP1Ui0orkKaR8hxf2rxLDX8uJfxZjivRiq3NEnpVAxXyv056eX7lAbk5ZP56L3JYinTfWIOOCkCWHfvDkj08-_GfMHnXsCMJ3SlP9LxaBxxEXHWANmjD5k2a0XEcLP1ZMUkQdrbwVcnOhSBdE6GA56NNn26pk2_A2_1oxVNoD8hTwsj-IqfCxP0pI2m54I4Ci67Y6g8dAKkwcNkA6m-VTmHOXijzPJ2utwLvxndv6o9urFw7WU"
+}
+

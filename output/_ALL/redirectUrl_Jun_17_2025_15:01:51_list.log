@@ -1,0 +1,17 @@
+[2025-06-17T12:01:51.589Z] redirectUrl:
+{
+  "method": "GET",
+  "headers": {
+    "host": "3162-197-135-8-145.ngrok-free.app",
+    "user-agent": "PostmanRuntime/7.44.0",
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate, br",
+    "postman-token": "01f0e4f0-c1dd-42a8-a44a-1cfe9aae2667",
+    "x-forwarded-for": "197.135.8.145",
+    "x-forwarded-host": "3162-197-135-8-145.ngrok-free.app",
+    "x-forwarded-proto": "https"
+  },
+  "query": {},
+  "url": "/redirect"
+}
+

@@ -1,0 +1,18 @@
+[2025-05-22T11:42:27.497Z] notificationUrl:
+{
+  "method": "PATCH",
+  "headers": {
+    "host": "a5c2-2c0f-fc88-95-2043-c004-128f-e472-4769.ngrok-free.app",
+    "user-agent": "PostmanRuntime/7.44.0",
+    "content-length": "0",
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate, br",
+    "postman-token": "dd87aeaa-d0d1-4d1d-82b6-db034b02b714",
+    "x-forwarded-for": "197.193.0.214",
+    "x-forwarded-host": "a5c2-2c0f-fc88-95-2043-c004-128f-e472-4769.ngrok-free.app",
+    "x-forwarded-proto": "https"
+  },
+  "query": {},
+  "url": "/notification"
+}
+

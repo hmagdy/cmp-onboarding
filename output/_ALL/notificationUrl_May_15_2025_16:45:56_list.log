@@ -1,0 +1,22 @@
+[2025-05-15T12:45:56.745Z] notificationUrl:
+{
+  "method": "POST",
+  "headers": {
+    "host": "acca-94-200-173-6.ngrok-free.app",
+    "user-agent": "PostmanRuntime/7.43.4",
+    "content-length": "19",
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate, br",
+    "content-type": "application/json",
+    "postman-token": "d29588ae-aaf9-4134-bdf8-4c57269fd8bd",
+    "x-forwarded-for": "94.200.173.6",
+    "x-forwarded-host": "acca-94-200-173-6.ngrok-free.app",
+    "x-forwarded-proto": "https"
+  },
+  "body": {
+    "fol": "lol"
+  },
+  "query": {},
+  "url": "/notification"
+}
+

@@ -1,0 +1,46 @@
+[2025-06-19T14:14:00.307Z] webhookUrl:
+{
+  "method": "POST",
+  "headers": {
+    "host": "3162-197-135-8-145.ngrok-free.app",
+    "user-agent": "Go-http-client/2.0",
+    "content-length": "1471",
+    "accept-encoding": "gzip",
+    "authorization": "Basic MGQ3OTJjMGY5OGMyNDQ3MzgyOWU5YmNkZjM1MDM0NTI6M2MyZDZmNDQwOGM4MzMzZDI5MjJiMTM3YzU4YTg4Njc=",
+    "content-type": "application/json",
+    "x-forwarded-for": "18.157.156.56",
+    "x-forwarded-host": "3162-197-135-8-145.ngrok-free.app",
+    "x-forwarded-proto": "https",
+    "x-unificationengine-signature": "Y2FiMTQ0ZTkzNTFiY2YyYjBkMDlhMjRhNDhlNGExZTE3NDIxMzkxMGQxMTliYWM2M2M4NzA4NmE3ZTliODg1MWY2YjA1ZTg3NWExZGYzYzAwM2JkM2IwNDBhNmJjMDdhOWE5ODM1MDMyM2Q1YjYwZWRkNDRlNzE3NWEyYzYyOWQ="
+  },
+  "body": {
+    "uri": "https://3162-197-135-8-145.ngrok-free.app/webhook",
+    "data": {
+      "messagepreview": "الاسم ليسا ديزاين \nالسلام عليكم \nحجز مندوب ارامكس لهذا العنوان",
+      "connectionname": "",
+      "uri": "whatsappcloud://966920014262@",
+      "receiveraddress": "966538253470",
+      "senderaddress": "966920014262",
+      "attachment": {
+        "value": "الاسم ليسا ديزاين \nالسلام عليكم \nحجز مندوب ارامكس لهذا العنوان",
+        "uri": "whatsappcloud://966538253470@whatsapp.com"
+      },
+      "timestamp": 1750342439,
+      "attachmenttype": "text",
+      "webhookaccesskey": "769f1dc3-05d1-482f-bc46-1cc90ce3bd88",
+      "parts": [
+        {
+          "contentType": "text",
+          "data": "الاسم ليسا ديزاين \nالسلام عليكم \nحجز مندوب ارامكس لهذا العنوان",
+          "uri": "whatsappcloud://966538253470@whatsapp.com",
+          "originalEvent": "{\"context\":{\"from\":\"966538253470\",\"id\":\"wamid.HBgMOTY2NTM4MjUzNDcwFQIAEhgUM0EyQ0Y1NTQ4N0ZGQTMwQkNFNjMA\"},\"from\":\"966538253470\",\"id\":\"wamid.HBgMOTY2NTM4MjUzNDcwFQIAEhgUM0FBRTkzNDE3NjhCQTU1RDIzOTYA\",\"timestamp\":\"1750342439\",\"text\":{\"body\":\"الاسم ليسا ديزاين \\nالسلام عليكم \\nحجز مندوب ارامكس لهذا العنوان\"},\"type\":\"text\",\"profile\":{\"name\":\"Amrah\"},\"replyto\":\"wamid.HBgMOTY2NTM4MjUzNDcwFQIAEhgUM0FBRTkzNDE3NjhCQTU1RDIzOTYA\"}"
+        }
+      ],
+      "sender": "whatsappcloud://966920014262@",
+      "receiver": "whatsappcloud://966538253470@whatsapp.com?name=Amrah"
+    }
+  },
+  "query": {},
+  "url": "/webhook"
+}
+

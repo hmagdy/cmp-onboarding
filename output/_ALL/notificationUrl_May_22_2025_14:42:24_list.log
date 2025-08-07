@@ -1,0 +1,18 @@
+[2025-05-22T11:42:24.034Z] notificationUrl:
+{
+  "method": "PUT",
+  "headers": {
+    "host": "a5c2-2c0f-fc88-95-2043-c004-128f-e472-4769.ngrok-free.app",
+    "user-agent": "PostmanRuntime/7.44.0",
+    "content-length": "0",
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate, br",
+    "postman-token": "929e7dae-f58f-4b95-a31f-a2ec908189ac",
+    "x-forwarded-for": "197.193.0.214",
+    "x-forwarded-host": "a5c2-2c0f-fc88-95-2043-c004-128f-e472-4769.ngrok-free.app",
+    "x-forwarded-proto": "https"
+  },
+  "query": {},
+  "url": "/notification"
+}
+

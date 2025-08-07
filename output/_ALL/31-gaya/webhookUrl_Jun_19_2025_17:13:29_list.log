@@ -1,0 +1,46 @@
+[2025-06-19T14:13:29.773Z] webhookUrl:
+{
+  "method": "POST",
+  "headers": {
+    "host": "3162-197-135-8-145.ngrok-free.app",
+    "user-agent": "Go-http-client/2.0",
+    "content-length": "1109",
+    "accept-encoding": "gzip",
+    "authorization": "Basic MGQ3OTJjMGY5OGMyNDQ3MzgyOWU5YmNkZjM1MDM0NTI6M2MyZDZmNDQwOGM4MzMzZDI5MjJiMTM3YzU4YTg4Njc=",
+    "content-type": "application/json",
+    "x-forwarded-for": "18.157.156.56",
+    "x-forwarded-host": "3162-197-135-8-145.ngrok-free.app",
+    "x-forwarded-proto": "https",
+    "x-unificationengine-signature": "OGVmZDVhOTA3Y2E4OTdkMzE1ZjA2NDE1MmQyMWM5OWRlMzUxMGUwZDU3YTkzMzdmZWVlMGQxNWE1ODU3ODRmODkxZTRkMjBlY2I5Y2UxNDY1OTc2NDYwOTJlNzJiYTk1NzIyNDhiYTAzZDFlODViOTM3ZTg0ODZiNGJhZDNjNzc="
+  },
+  "body": {
+    "uri": "https://3162-197-135-8-145.ngrok-free.app/webhook",
+    "data": {
+      "messagepreview": "خميس مشيط حي الموس\n0554753774",
+      "connectionname": "",
+      "uri": "whatsappcloud://966920014262@",
+      "receiveraddress": "966538253470",
+      "senderaddress": "966920014262",
+      "attachment": {
+        "value": "خميس مشيط حي الموس\n0554753774",
+        "uri": "whatsappcloud://966538253470@whatsapp.com"
+      },
+      "timestamp": 1750342408,
+      "attachmenttype": "text",
+      "webhookaccesskey": "769f1dc3-05d1-482f-bc46-1cc90ce3bd88",
+      "parts": [
+        {
+          "contentType": "text",
+          "data": "خميس مشيط حي الموس\n0554753774",
+          "uri": "whatsappcloud://966538253470@whatsapp.com",
+          "originalEvent": "{\"context\":{\"forwarded\":true},\"from\":\"966538253470\",\"id\":\"wamid.HBgMOTY2NTM4MjUzNDcwFQIAEhgUM0EyQ0Y1NTQ4N0ZGQTMwQkNFNjMA\",\"timestamp\":\"1750342408\",\"text\":{\"body\":\"خميس مشيط حي الموس\\n0554753774\"},\"type\":\"text\",\"profile\":{\"name\":\"Amrah\"},\"replyto\":\"wamid.HBgMOTY2NTM4MjUzNDcwFQIAEhgUM0EyQ0Y1NTQ4N0ZGQTMwQkNFNjMA\"}"
+        }
+      ],
+      "sender": "whatsappcloud://966920014262@",
+      "receiver": "whatsappcloud://966538253470@whatsapp.com?name=Amrah"
+    }
+  },
+  "query": {},
+  "url": "/webhook"
+}
+

@@ -1,0 +1,17 @@
+[2025-05-22T11:42:30.725Z] notificationUrl:
+{
+  "method": "DELETE",
+  "headers": {
+    "host": "a5c2-2c0f-fc88-95-2043-c004-128f-e472-4769.ngrok-free.app",
+    "user-agent": "PostmanRuntime/7.44.0",
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate, br",
+    "postman-token": "43f9f2e5-50a4-4fe5-b404-d9c2841c4928",
+    "x-forwarded-for": "197.193.0.214",
+    "x-forwarded-host": "a5c2-2c0f-fc88-95-2043-c004-128f-e472-4769.ngrok-free.app",
+    "x-forwarded-proto": "https"
+  },
+  "query": {},
+  "url": "/notification"
+}
+

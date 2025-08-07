@@ -1,0 +1,20 @@
+[2025-07-22T16:13:50.397Z] webhookUrl:
+{
+  "method": "GET",
+  "headers": {
+    "host": "39075c16a73e.ngrok-free.app",
+    "user-agent": "facebookplatform/1.0 (+http://developers.facebook.com)",
+    "accept": "*/*",
+    "accept-encoding": "deflate, gzip",
+    "x-forwarded-for": "2a03:2880:32ff:4::",
+    "x-forwarded-host": "39075c16a73e.ngrok-free.app",
+    "x-forwarded-proto": "https"
+  },
+  "query": {
+    "hub.mode": "subscribe",
+    "hub.challenge": "1090105090",
+    "hub.verify_token": "."
+  },
+  "url": "/webhook?hub.mode=subscribe&hub.challenge=1090105090&hub.verify_token=."
+}
+

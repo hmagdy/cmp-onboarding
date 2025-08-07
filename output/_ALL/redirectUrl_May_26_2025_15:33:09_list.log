@@ -1,0 +1,29 @@
+[2025-05-26T12:33:09.938Z] redirectUrl:
+{
+  "method": "GET",
+  "headers": {
+    "host": "519f-197-135-187-17.ngrok-free.app",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "accept-language": "en-US,en;q=0.9,ar;q=0.8",
+    "priority": "u=0, i",
+    "referer": "https://partner.uib.ai/",
+    "sec-ch-ua": "\"Chromium\";v=\"136\", \"Google Chrome\";v=\"136\", \"Not.A/Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "upgrade-insecure-requests": "1",
+    "x-forwarded-for": "31.167.48.118",
+    "x-forwarded-host": "519f-197-135-187-17.ngrok-free.app",
+    "x-forwarded-proto": "https"
+  },
+  "query": {
+    "status": "false",
+    "message": "You have not completed the Embedded signup registration process. Please ensure it is fully completed by following all the steps in the Meta screen."
+  },
+  "url": "/redirect?status=false&message=You%20have%20not%20completed%20the%20Embedded%20signup%20registration%20process.%20Please%20ensure%20it%20is%20fully%20completed%20by%20following%20all%20the%20steps%20in%20the%20Meta%20screen."
+}
+

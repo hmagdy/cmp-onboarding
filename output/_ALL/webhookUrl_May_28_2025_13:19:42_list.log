@@ -1,0 +1,18 @@
+[2025-05-28T10:19:42.055Z] webhookUrl:
+{
+  "method": "POST",
+  "headers": {
+    "host": "519f-197-135-187-17.ngrok-free.app",
+    "user-agent": "PostmanRuntime/7.44.0",
+    "content-length": "0",
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate, br",
+    "postman-token": "24e5387d-9fb4-4980-b92c-8c5bac0446c6",
+    "x-forwarded-for": "197.135.187.17",
+    "x-forwarded-host": "519f-197-135-187-17.ngrok-free.app",
+    "x-forwarded-proto": "https"
+  },
+  "query": {},
+  "url": "/webhook"
+}
+

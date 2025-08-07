@@ -1,0 +1,17 @@
+[2025-05-15T12:58:52.921Z] notificationUrl:
+{
+  "method": "GET",
+  "headers": {
+    "host": "acca-94-200-173-6.ngrok-free.app",
+    "user-agent": "Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)",
+    "accept": "*/*",
+    "accept-encoding": "gzip,deflate",
+    "range": "bytes=0-32768",
+    "x-forwarded-for": "3.226.249.248",
+    "x-forwarded-host": "acca-94-200-173-6.ngrok-free.app",
+    "x-forwarded-proto": "https"
+  },
+  "query": {},
+  "url": "/notification"
+}
+

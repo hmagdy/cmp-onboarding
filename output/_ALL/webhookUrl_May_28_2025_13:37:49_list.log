@@ -1,0 +1,46 @@
+[2025-05-28T10:37:49.794Z] webhookUrl:
+{
+  "method": "POST",
+  "headers": {
+    "host": "519f-197-135-187-17.ngrok-free.app",
+    "user-agent": "Go-http-client/2.0",
+    "content-length": "1108",
+    "accept-encoding": "gzip",
+    "authorization": "Basic YTU5NWRiNDg0ZTlhNGUzYWExYThiZmI1NWFkNTY1MzA6MGQyNTdmZjQ1YzIwNGMwZjEwNGRhYjZiNDdmYjc0NjM=",
+    "content-type": "application/json",
+    "x-forwarded-for": "18.157.156.56",
+    "x-forwarded-host": "519f-197-135-187-17.ngrok-free.app",
+    "x-forwarded-proto": "https",
+    "x-unificationengine-signature": "MGJhYmFlODgxNjk4YWQ2MGE0MjNlYWMyMjRhMGE0ZGI0MWVmZTRlM2U5MmViOTA4NzQ0NTNmYzg0NDg5Yzk1YTUwMzA3ZWJhZTgyYjAxMmI2YjVlN2Q4ZTNiMTc4OTYyYmYxODI4NzMyMTkxM2IyZmYyMGY1MTE3YzdhYzU2YzE="
+  },
+  "body": {
+    "uri": "https://519f-197-135-187-17.ngrok-free.app/webhook",
+    "data": {
+      "messagepreview": "انت عملت ايه ف الواتس ياض ؟",
+      "connectionname": "",
+      "uri": "whatsappcloud://966504766622@",
+      "receiveraddress": "201096164521",
+      "senderaddress": "966504766622",
+      "attachment": {
+        "value": "انت عملت ايه ف الواتس ياض ؟",
+        "uri": "whatsappcloud://201096164521@whatsapp.com"
+      },
+      "timestamp": 1748428668,
+      "attachmenttype": "text",
+      "webhookaccesskey": "e7a4f2a1-3b78-4641-abe2-8d4fa2bd4583",
+      "parts": [
+        {
+          "contentType": "text",
+          "data": "انت عملت ايه ف الواتس ياض ؟",
+          "uri": "whatsappcloud://201096164521@whatsapp.com",
+          "originalEvent": "{\"from\":\"201096164521\",\"id\":\"wamid.HBgMMjAxMDk2MTY0NTIxFQIAEhgUM0E5ODg1MjkzMzg3QTczNjNBMkYA\",\"timestamp\":\"1748428668\",\"text\":{\"body\":\"انت عملت ايه ف الواتس ياض ؟\"},\"type\":\"text\",\"profile\":{\"name\":\"Muhammad Hassan\"},\"replyto\":\"wamid.HBgMMjAxMDk2MTY0NTIxFQIAEhgUM0E5ODg1MjkzMzg3QTczNjNBMkYA\"}"
+        }
+      ],
+      "sender": "whatsappcloud://966504766622@",
+      "receiver": "whatsappcloud://201096164521@whatsapp.com?name=Muhammad Hassan"
+    }
+  },
+  "query": {},
+  "url": "/webhook"
+}
+

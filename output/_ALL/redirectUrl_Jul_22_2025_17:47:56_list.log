@@ -1,0 +1,29 @@
+[2025-07-22T14:47:56.191Z] redirectUrl:
+{
+  "method": "GET",
+  "headers": {
+    "host": "39075c16a73e.ngrok-free.app",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "accept-language": "en-US,en;q=0.9,ar;q=0.8,zh;q=0.7,sv;q=0.6",
+    "priority": "u=0, i",
+    "referer": "https://www.facebook.com/",
+    "sec-ch-ua": "\"Not)A;Brand\";v=\"8\", \"Chromium\";v=\"138\", \"Google Chrome\";v=\"138\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "cross-site",
+    "upgrade-insecure-requests": "1",
+    "x-forwarded-for": "197.133.173.188",
+    "x-forwarded-host": "39075c16a73e.ngrok-free.app",
+    "x-forwarded-proto": "https"
+  },
+  "query": {
+    "error_code": "1349168",
+    "error_message": "URL Blocked: This redirect failed because the redirect URI is not whitelisted in the app’s Client OAuth Settings. Make sure Client and Web OAuth Login are on and add all your app domains as Valid OAuth Redirect URIs."
+  },
+  "url": "/redirect?error_code=1349168&error_message=URL+Blocked%3A+This+redirect+failed+because+the+redirect+URI+is+not+whitelisted+in+the+app%E2%80%99s+Client+OAuth+Settings.+Make+sure+Client+and+Web+OAuth+Login+are+on+and+add+all+your+app+domains+as+Valid+OAuth+Redirect+URIs."
+}
+

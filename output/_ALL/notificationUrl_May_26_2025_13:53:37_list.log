@@ -1,0 +1,26 @@
+[2025-05-26T10:53:37.303Z] notificationUrl:
+{
+  "method": "POST",
+  "headers": {
+    "host": "519f-197-135-187-17.ngrok-free.app",
+    "user-agent": "axios/1.9.0",
+    "content-length": "608",
+    "accept": "application/json, text/plain, */*",
+    "accept-encoding": "gzip, compress, deflate, br",
+    "content-type": "application/json",
+    "x-forwarded-for": "18.197.10.64",
+    "x-forwarded-host": "519f-197-135-187-17.ngrok-free.app",
+    "x-forwarded-proto": "https"
+  },
+  "body": {
+    "ACCESS_KEY": "f11c6096f94e3fb836bd08d40dea05456e70430378fa2d00c38813a0e469f61792d87adc4c3667735950202b3d7e7a9c",
+    "ACCESS_SECRET": "e521fb03a037c1f5a5d7503ec677ec42e4da81a138af8d18591e354a158278b142f9aaef6e8e3d3d8e39e5eb32d84055",
+    "TEMPLATE_ACCESS_KEY": "878e5e25bb2220401c5805ec0aab73da9e956530ef3fd1de5be2c3206d329a44a807fa8b2c41ca6ba30ed28670f48bf0",
+    "TEMPLATE_ACCESS_SECRET": "6885232014c306b4b60923cad98a44e2519cd40e93abed9d93a9c3140fe8fe4f44107bd1e119c02db494057f1a2b6fbb",
+    "WABA_ACCOUNT_ID": "e99ce293463e9a8b98c6eb5fbbff21a6",
+    "PHONE_NUMBER": "2ef75baeb4c75a1a857faa1c8a00983e200bc6400009fc0b0a880a32ce1776a8"
+  },
+  "query": {},
+  "url": "/notification"
+}
+

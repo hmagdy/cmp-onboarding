@@ -1,0 +1,43 @@
+[2025-06-19T11:12:37.064Z] webhookUrl:
+{
+  "method": "POST",
+  "headers": {
+    "host": "3162-197-135-8-145.ngrok-free.app",
+    "user-agent": "axios/1.10.0",
+    "content-length": "807",
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate, br",
+    "content-type": "application/json",
+    "postman-token": "39dad922-6937-4c31-8243-ed743dd14d45",
+    "x-forwarded-for": "197.135.114.6",
+    "x-forwarded-host": "3162-197-135-8-145.ngrok-free.app",
+    "x-forwarded-proto": "https"
+  },
+  "body": {
+    "messagepreview": "WEBHOOK_MESSAGE",
+    "connectionname": "",
+    "uri": "SCHEME://BOT_NUMBER@",
+    "receiveraddress": "RECEIVER_ADDRESS",
+    "senderaddress": "BOT_NUMBER",
+    "attachment": {
+      "value": "WEBHOOK_MESSAGE",
+      "uri": "SCHEME://BOT_NUMBER@DOMAIN"
+    },
+    "timestamp": 1700450311,
+    "attachmenttype": "text",
+    "webhookaccesskey": "APPLICATION_ID",
+    "parts": [
+      {
+        "contentType": "text",
+        "data": "WEBHOOK_MESSAGE",
+        "uri": "SCHEME://BOT_NUMBER@DOMAIN",
+        "originalEvent": "{\"from\":\"FROM_ADDRESS\",\"id\":\"MESSAGE_ID\",\"text\":{\"body\":\"WEBHOOK_MESSAGE\"},\"timestamp\":\"1700450311\",\"type\":\"text\"}"
+      }
+    ],
+    "sender": "SCHEME://BOT_NUMBER@",
+    "receiver": "SCHEME://BOT_NUMBER@DOMAIN"
+  },
+  "query": {},
+  "url": "/webhook/uib"
+}
+
