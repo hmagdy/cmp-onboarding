@@ -48,6 +48,7 @@ function handleRequest(req, res, endpointName) {
 // Endpoints
 app.all('/redirect', (req, res) => handleRequest(req, res, 'redirectUrl'));
 app.all('/webhook', (req, res) => handleRequest(req, res, 'webhookUrl'));
+app.all('/webhook/uib', (req, res) => handleRequest(req, res, 'webhookUrl'));
 app.all('/notification', (req, res) => handleRequest(req, res, 'notificationUrl'));
 
 // Start server
